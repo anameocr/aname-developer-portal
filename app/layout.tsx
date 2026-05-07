@@ -80,7 +80,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </div>
             </div>
             <div className="mt-8 pt-6 border-t border-slate-200 text-center text-xs text-slate-400">
-              &copy; 2026 ANAME AI S.r.l. — Tutti i diritti riservati.
+              &copy; 2026 ANAME AI — Tutti i diritti riservati.
             </div>
           </div>
         </footer>
